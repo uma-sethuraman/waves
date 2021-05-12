@@ -1,7 +1,4 @@
-# WAVES Workshop
+# Michigan State University WAVES Workshop
 
-Michigan State University
-
-contact
-* Matthew Andres Moreno
-* `mmore500@msu.edu`
+- Uma Sethuraman's Branch of the Michigan State University WAVES Research Program Website Repository
+- Used to add my personal article to the WAVES website
